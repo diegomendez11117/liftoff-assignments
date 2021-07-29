@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/diegomendez11117
 
 ### LinkedIn
-linkedin.com/in/enriquemendezroger
+https://linkedin.com/in/enriquemendezroger
 
 ### Resume
 •	Computer engineer with an experience of more than 5 years in the field of software development and control of computer network systems.
